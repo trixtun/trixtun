@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-takshak-2521061a0" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" alt="tushar-takshak-2521061a0" height="60" width="60" /></a>
-<a href="https://instagram.com/_.tushar2000._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.tushar2000._" height="60" width="60" /></a>
-<a href="https://discord.gg/https://discord.gg/XDPwrc255V" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/XDPwrc255V" height="60" width="60" /></a>
+<a href="https://instagram.com/_.tushar2000._" target="blank"><img align="center" src="https://goldengatexpress.org/wp-content/uploads/2020/05/The_Instagram_Logo.jpg" alt="_.tushar2000._" height="60" width="60" /></a>
+<a href="https://discord.gg/https://discord.gg/XDPwrc255V" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png/discord.svg" alt="https://discord.gg/XDPwrc255V" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
