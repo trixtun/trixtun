@@ -21,4 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trixtun&" alt="trixtun" /></p>
 <br>
+<html>
+  <body>
 <iframe src="https://discord.com/widget?id=758610259202932756&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  </body>
+  </html>
