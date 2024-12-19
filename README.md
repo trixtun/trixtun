@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Takshak</h1>
-<h3 align="center">A passionate Web Developer and Cybersecurity Enthusiast</h3>
+<h3 align="center">Integration Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trixtun&label=Profile%20views&color=0e75b6&style=flat" alt="trixtun" /> </p>
 
